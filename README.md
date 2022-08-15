@@ -1,4 +1,4 @@
-*** Visit my new website at https://www.petercherm.com ***
+*** Visit my new website at https://peter.cherm.me ***
 
 ## Hello.
 
