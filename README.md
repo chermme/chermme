@@ -1,4 +1,5 @@
-*** Visit my new website at https://peter.cherm.me ***
+Website: https://peter.cherm.me
+LinkedIn: https://www.linkedin.com/in/petercherm/
 
 ## Hello.
 
