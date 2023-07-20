@@ -1,6 +1,6 @@
 Website: https://www.petercherm.com
 
-LinkedIn: https://www.linkedin.com/in/pcherm/
+LinkedIn: https://www.linkedin.com/in/petercherm/
 
 ## Hello.
 
