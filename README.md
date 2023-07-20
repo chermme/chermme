@@ -1,4 +1,4 @@
-Website: https://www.PeterCherm.com
+Website: https://www.petercherm.com
 
 LinkedIn: https://www.linkedin.com/in/pcherm/
 
