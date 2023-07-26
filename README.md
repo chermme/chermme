@@ -1,4 +1,4 @@
-Personal Website: https://www.petercherm.com
+Personal Website: https://www.uiexpert.dev
 
 Company Website: https://www.digitaloop.com
 
