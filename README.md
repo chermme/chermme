@@ -4,7 +4,7 @@ LinkedIn: https://www.linkedin.com/in/petercherm/
 
 # Piotr Chermanowicz - Senior Front-End Developer
 
-![Piotr Chermanowicz](https://www.uiexpert.dev/assets/petercherm/petercherm_avatar@2x.png)
+![Piotr Chermanowicz](https://www.uiexpert.dev/assets/petercherm/petercherm_avatar.png)
 
 ## Great Code. Delivered.
 
