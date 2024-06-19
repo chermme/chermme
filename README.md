@@ -56,7 +56,7 @@ Proud to name some of the clients I've worked with:
 - Carphone Warehouse
 - Orange
 
-*Logos represent the clients for the projects I've been working on, not all of which are the companies I've been working for directly*
+*The above list represents the project clients I've been working on, not all of which are the companies I've been working for directly*
 
 ### Projects
 
