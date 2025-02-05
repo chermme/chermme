@@ -1,6 +1,6 @@
 Personal Website: https://www.uiexpert.dev
 
-LinkedIn: https://www.linkedin.com/in/pcherm/
+LinkedIn: https://www.linkedin.com/in/chermme/
 
 # Peter Chermanowicz - Senior Front-End Developer
 
