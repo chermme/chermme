@@ -33,6 +33,8 @@ Hello. I'm Peter. I specialize in UI and front-end development and design. I've 
 
 Proud to name some of the clients I've worked with:
 
+- BOXT
+- Breathe Batteires
 - HSS ProService
 - HSS Hire
 - AnyJunk
